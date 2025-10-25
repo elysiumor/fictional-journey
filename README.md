@@ -186,7 +186,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Your Name - [@ChainedAlchemy](https://x.com/ChainedAlchemy)
 
-Project Link: [Link](https://github.com/elysiumor/fictional-journey)
+Project Link: [Here](https://github.com/elysiumor/fictional-journey)
 
 ---
 
