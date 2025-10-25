@@ -184,7 +184,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [@ChainedAlchemy](https://x.com/ChainedAlchemy)
+Nithin (Elysiumor) - [@ChainedAlchemy](https://x.com/ChainedAlchemy)
 
 Project Link: [Here](https://github.com/elysiumor/fictional-journey)
 
