@@ -184,9 +184,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
+Your Name - [@ChainedAlchemy](https://x.com/ChainedAlchemy)
 
-Project Link: [https://github.com/yourusername/henley-passport-index](https://github.com/yourusername/henley-passport-index)
+Project Link: [Here](https://github.com/elysiumor/fictional-journey)
 
 ---
 
