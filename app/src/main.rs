@@ -185,7 +185,7 @@ impl eframe::App for AppData {
                             .fill(Color32::WHITE)
                             .inner_margin(Margin::same(24.0))
                             .rounding(Rounding::same(12.0))
-                            .stroke(Stroke::new(1.0, Color32::from_rgb(226, 232, 240)))
+                            .stroke(Stroke::new(1.0_f32, Color32::from_rgb(226, 232, 240)))
                             .show(ui, |ui| {
                                 ui.heading(RichText::new("🌐 Global Passport Power Rankings").size(24.0).strong());
                                 ui.add_space(16.0);
@@ -194,7 +194,7 @@ impl eframe::App for AppData {
                                     ui.label(RichText::new("🔎 Filter by country:").size(15.0).color(Color32::from_rgb(100, 116, 139)));
 
                                     egui::Frame::none()
-                                        .stroke(Stroke::new(1.5, Color32::from_rgb(203, 213, 225)))
+                                        .stroke(Stroke::new(1.5_f32, Color32::from_rgb(203, 213, 225)))
                                         .rounding(Rounding::same(8.0))
                                         .inner_margin(Margin::symmetric(12.0, 8.0))
                                         .show(ui, |ui| {
@@ -292,7 +292,7 @@ impl eframe::App for AppData {
                             .fill(Color32::WHITE)
                             .inner_margin(Margin::same(24.0))
                             .rounding(Rounding::same(12.0))
-                            .stroke(Stroke::new(1.0, Color32::from_rgb(226, 232, 240)))
+                            .stroke(Stroke::new(1.0_f32, Color32::from_rgb(226, 232, 240)))
                             .show(ui, |ui| {
                                 ui.heading(RichText::new("🔍 Visa Requirements Search").size(24.0).strong());
                                 ui.add_space(20.0);
